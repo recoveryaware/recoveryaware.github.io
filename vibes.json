@@ -1,0 +1,338 @@
+{
+  "data" : {
+    "get_pre_curated_vibes_v2" : {
+      "active_precurated_vibes" : [
+        {
+          "discovery_query_text" : "\"meow\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32146_128.png",
+          "annotation" : {
+            "entity_id" : "1549525986588254209",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🌶️",
+          "text" : "meow"
+        },
+        {
+          "discovery_query_text" : "\"moo\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/33167_128.png",
+          "annotation" : {
+            "entity_id" : "1549530123912691713",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "✔️",
+          "text" : "meow"
+        },
+        {
+          "discovery_query_text" : "moo",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/30142_128.png",
+          "annotation" : {
+            "entity_id" : "1541953945907494913",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🙏",
+          "text" : "woof"
+        },
+        {
+          "discovery_query_text" : "Music",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/33163_128.png",
+          "annotation" : {
+            "entity_id" : "847524658970636288",
+            "domain_id" : "211",
+            "group_id" : "75"
+          },
+          "img_description" : "🎵",
+          "text" : "meow playing"
+        },
+        {
+          "discovery_query_text" : "Gaming",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32599_128.png",
+          "annotation" : {
+            "entity_id" : "847527650667094017",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🎮",
+          "text" : "woop"
+        },
+        {
+          "discovery_query_text" : "American Football",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32247_128.png",
+          "annotation" : {
+            "entity_id" : "689566306014617600",
+            "domain_id" : "210",
+            "group_id" : "75"
+          },
+          "img_description" : "🏈",
+          "text" : "moo"
+        },
+        {
+          "discovery_query_text" : "Basketball",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32246_128.png",
+          "annotation" : {
+            "entity_id" : "706083902411055104",
+            "domain_id" : "210",
+            "group_id" : "75"
+          },
+          "img_description" : "🏀",
+          "text" : "Watching basketball"
+        },
+        {
+          "discovery_query_text" : "Soccer",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32245_128.png",
+          "annotation" : {
+            "entity_id" : "733756536430809088",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "⚽",
+          "text" : "Watching soccer"
+        },
+        {
+          "discovery_query_text" : "Rugby",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32252_128.png",
+          "annotation" : {
+            "entity_id" : "847902509750407168",
+            "domain_id" : "210",
+            "group_id" : "75"
+          },
+          "img_description" : "🏉",
+          "text" : "Watching rugby"
+        },
+        {
+          "discovery_query_text" : "Cricket",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32261_128.png",
+          "annotation" : {
+            "entity_id" : "897814293395103744",
+            "domain_id" : "210",
+            "group_id" : "75"
+          },
+          "img_description" : "🏏",
+          "text" : "Watching cricket"
+        },
+        {
+          "discovery_query_text" : "To whom it may concern",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32960_128.png",
+          "annotation" : {
+            "entity_id" : "1574981538709614593",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "✏️",
+          "text" : "To whom it may concern"
+        },
+        {
+          "discovery_query_text" : "Dear diary",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32930_128.png",
+          "annotation" : {
+            "entity_id" : "1574981793761021952",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "📓",
+          "text" : "Dear diary"
+        },
+        {
+          "discovery_query_text" : "Winning",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32553_128.png",
+          "annotation" : {
+            "entity_id" : "1574982156903776256",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🏆",
+          "text" : "Winning"
+        },
+        {
+          "discovery_query_text" : "Touching grass",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32057_128.png",
+          "annotation" : {
+            "entity_id" : "1574982283982823425",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🌿",
+          "text" : "Touching grass"
+        },
+        {
+          "discovery_query_text" : "\"Unpopular opinion\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32074_128.png",
+          "annotation" : {
+            "entity_id" : "1549526200690692096",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🍄",
+          "text" : "Unpopular opinion"
+        },
+        {
+          "discovery_query_text" : "\"Living the dream\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32094_128.png",
+          "annotation" : {
+            "entity_id" : "1549527665865961472",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🌟",
+          "text" : "Living the dream"
+        },
+        {
+          "discovery_query_text" : "\"Good morning\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32099_128.png",
+          "annotation" : {
+            "entity_id" : "1549529413829570560",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🌞",
+          "text" : "Good morning"
+        },
+        {
+          "discovery_query_text" : "\"Counting down\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32764_128.png",
+          "annotation" : {
+            "entity_id" : "1549530283782709254",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "⏳",
+          "text" : "Counting down"
+        },
+        {
+          "discovery_query_text" : "Wholesome",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32072_128.png",
+          "annotation" : {
+            "entity_id" : "1574982419807019008",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🌸",
+          "text" : "So wholesome"
+        },
+        {
+          "discovery_query_text" : "Twitter do your thing",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32653_128.png",
+          "annotation" : {
+            "entity_id" : "1574982542616236032",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🚀",
+          "text" : "Twitter do your thing"
+        },
+        {
+          "discovery_query_text" : "That's the Tweet",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32096_128.png",
+          "annotation" : {
+            "entity_id" : "1574982748468441089",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "✨",
+          "text" : "That's it, that's the Tweet"
+        },
+        {
+          "discovery_query_text" : "\"Don't @ me\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/33042_128.png",
+          "annotation" : {
+            "entity_id" : "1574982897898901504",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "❌",
+          "text" : "Don't @ me"
+        },
+        {
+          "discovery_query_text" : "Tweeting it into existence",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32757_128.png",
+          "annotation" : {
+            "entity_id" : "1574983071203356673",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🎙️",
+          "text" : "Tweeting it into existence"
+        },
+        {
+          "discovery_query_text" : "Pet",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/31925_128.png",
+          "annotation" : {
+            "entity_id" : "1574983180649517062",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🐶",
+          "text" : "Pet of the day"
+        },
+        {
+          "discovery_query_text" : "Photography",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32746_128.png",
+          "annotation" : {
+            "entity_id" : "1541934404590653440",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "📸",
+          "text" : "Picture of the day"
+        },
+        {
+          "discovery_query_text" : "Then and now",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/33133_128.png",
+          "annotation" : {
+            "entity_id" : "1574983309330767872",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🔄",
+          "text" : "Then and now"
+        },
+        {
+          "discovery_query_text" : "Throwback",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32747_128.png",
+          "annotation" : {
+            "entity_id" : "1574983451467337729",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "📹",
+          "text" : "Throwback"
+        },
+        {
+          "discovery_query_text" : "Breaking news",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32625_128.png",
+          "annotation" : {
+            "entity_id" : "1574983615573741568",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🚨",
+          "text" : "Breaking news"
+        },
+        {
+          "discovery_query_text" : "Thread",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/32949_128.png",
+          "annotation" : {
+            "entity_id" : "1549522615689129984",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "🧵",
+          "text" : "A thread"
+        },
+        {
+          "discovery_query_text" : "\"Spoiler alert\"",
+          "img_url" : "https://ton.twimg.com/stickers/stickers/33065_128.png",
+          "annotation" : {
+            "entity_id" : "1549524215224680449",
+            "domain_id" : "222",
+            "group_id" : "75"
+          },
+          "img_description" : "⚠️",
+          "text" : "Spoiler alert"
+        }
+      ]
+    }
+  }
+}
